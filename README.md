@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgalenc&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamgalenc" /> </p>
 
-- 🔭 Planning to working on [Face clustering](TBA), [Raspberry PI Machine Learning](TBA)
+- 🔭 Planning to working on [Face clustering](TBA), [Raspberry PI Machine Learning](TBA), [Hackintosh](TBA), [MXq STB as IOT/NAS](TBA)
 
 - 🌱 Currently learning **Advanced machine learning, deep learning, and statistics**
 
