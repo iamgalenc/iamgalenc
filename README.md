@@ -5,7 +5,7 @@
 
 - 🔭 Planning to working on [Face clustering](TBA), [Raspberry PI Machine Learning](TBA), [MXq STB as IOT/NAS](TBA), [Twitter Sentiment Analysis](TBA)
   
-- 🌱 Currently learning **Advanced machine learning, deep learning, and statistics**
+- 🌱 Currently learning **C++, Advanced machine learning, deep learning, and statistics**
 
 - 🦺 Current project [Investment portfolio with Python](https://github.com/iamgalenc/investment_portofolio_py), [Spotify Songs Clustering](https://github.com/iamgalenc/K-Means-Spotifty-Clustering)
 
