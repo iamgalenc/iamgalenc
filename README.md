@@ -1,9 +1,9 @@
-<h1 align="center">Hello, My name is Galen Centrino</h1>
+<h1 align="center">Hello, My name is Aryasatya Galen</h1>
 <h3 align="center">Data science student from Brawijaya University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgalenc&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamgalenc" /> </p>
 
-- 🔭 Planning to working on [Face clustering](TBA), [Raspberry PI Machine Learning](TBA), [MXq STB as IOT/NAS](TBA), [Twitter Sentiment Analysis](TBA)
+- 🔭 Planning to working on Something...
   
 - 🌱 Currently learning **C++, Advanced machine learning, deep learning, and statistics**
 
