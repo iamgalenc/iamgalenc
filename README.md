@@ -64,3 +64,40 @@
 </div>
 
 ###
+
+```
+┌───────────────────────────────────────────────┐
+│                 SYSTEM SPECS                  │
+└───────────────────────────────────────────────┘
+CPU                : Intel Core i5-12400F
+RAM                : 1x16GB Team Elite DDR5 @5600MHz
+Motherboard        : ASRock B760M-HDV/M.2 DDR5
+GPU                : SAPPHIRE NITRO+ AMD Radeon RX 470 4GB OC
+
+System SSD         : Intel 6000P 256GB PCIe Gen 3 x4
+Secondary SSD      : Adata SU650 120GB SATA 3
+Hard Drive         : Toshiba MQ01ABD050 500GB SATA 3
+
+CPU Cooler         : Deepcool Gammaxx L240 V1
+Fans               : 3x Deepcool RF120W, 2x Deepcool XFAN 120
+PSU                : Raidmax Cobra Power RX-500AF-B 80+ Bronze 500W
+Case               : Cube Gaming Bruks
+
+┌───────────────────────────────────────────────┐
+│               PERIPHERAL SPECS                │
+└───────────────────────────────────────────────┘
+Mouse              : VortexSeries IGNIX F5 (Attack Shark V5 w/ PAW3311)
+Keyboard           : Monsgeek MG75W Barebone  
+                     MZ Z1 Switch | Durock Stabilizers | Coiled Cable  
+                     Clone Japanese Keycaps
+Mousepad           : Paradox Gaming GHOST Tarot
+IEM                : KZ EDA Balanced  
+                     AK6 Pro Cable | Default Eartips
+Speaker            : Logitech S150
+Webcam             : NYK Nemesis A95 Albatros
+Main Monitor       : ViewSonic VA2432-H 100Hz 24 Inch 1080p IPS
+Secondary Monitor  : LG HD PLUS 20M38H-B 20 Inch 900p TN
+Arduino Monitor    : LGT8F328P + SSD1306 Display
+```
+
+###
