@@ -74,8 +74,8 @@ RAM                : 1x16GB Team Elite DDR5 @5600MHz
 Motherboard        : ASRock B760M-HDV/M.2 DDR5
 GPU                : SAPPHIRE NITRO+ AMD Radeon RX 470 4GB OC
 
-System SSD         : Intel 6000P 256GB PCIe Gen 3 x4
-Secondary SSD      : Adata SU650 120GB SATA 3
+System SSD         : Kioxia BG6 256GB PCIe Gen 4x4
+Secondary SSD      : Intel 6000P 256GB PCIe Gen 3x4
 Hard Drive         : Toshiba MQ01ABD050 500GB SATA 3
 
 CPU Cooler         : Deepcool Gammaxx L240 V1
@@ -91,8 +91,7 @@ Keyboard           : Monsgeek MG75W Barebone
                      MZ Z1 Switch | Durock Stabilizers | Coiled Cable  
                      Clone Japanese Keycaps
 Mousepad           : Paradox Gaming GHOST Tarot
-IEM                : KZ EDA Balanced  
-                     AK6 Pro Cable | Default Eartips
+IEM                : KZ Saga Balanced
 Speaker            : Logitech S150
 Webcam             : NYK Nemesis A95 Albatros
 Main Monitor       : ViewSonic VA2432-H 100Hz 24 Inch 1080p IPS
